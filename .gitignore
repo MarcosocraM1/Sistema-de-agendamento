@@ -1,0 +1,20 @@
+# Ignora pasta build
+build.gradle
+
+# Ignora pasta gradle
+gradle
+
+# Ignora pasta .gradle
+.gradle
+
+# Ignora gradle.properties
+gradle.properties
+
+# Ignore local.properties
+local.properties
+
+gradlew.bat
+
+settings.gradle
+
+gradlew
